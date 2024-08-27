@@ -1,0 +1,15 @@
+com\help\cityhelper\servlets\Login.class
+com\help\cityhelper\dao\UserDao.class
+com\help\cityhelper\helper\FactoryProvider.class
+com\help\cityhelper\dao\PostDao.class
+com\help\cityhelper\servlets\OperationServlet.class
+com\help\cityhelper\servlets\Register.class
+com\help\cityhelper\entities\Category.class
+com\help\cityhelper\resources\JakartaEE10Resource.class
+com\help\cityhelper\dao\CityDao.class
+com\help\cityhelper\JakartaRestConfiguration.class
+com\help\cityhelper\entities\City.class
+com\help\cityhelper\entities\Post.class
+com\help\cityhelper\servlets\Logout.class
+com\help\cityhelper\entities\User.class
+com\help\cityhelper\dao\CategoryDao.class

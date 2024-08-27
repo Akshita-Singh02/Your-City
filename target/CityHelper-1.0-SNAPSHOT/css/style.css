@@ -1,0 +1,27 @@
+/* Reduce padding and font size */
+
+.small-navbar {
+    padding: 0.45rem 1rem; /* Adjust padding as needed */
+}
+
+.small-navbar .navbar-brand {
+    font-size: 1rem; /* Adjust font size as needed */
+    padding-top: 0.45rem;
+    padding-bottom: 0.45rem;
+}
+
+.small-navbar .nav-link {
+    font-size: 1rem; /* Adjust font size as needed */
+    padding-top: 0.45rem;
+    padding-bottom: 0.45rem;
+}
+
+.small-navbar .form-control {
+    font-size: 1rem; /* Adjust font size as needed */
+    padding: 0.45rem 0.5rem;
+}
+
+.small-navbar .btn {
+    font-size: 1rem; /* Adjust font size as needed */
+    padding: 0.45rem 0.5rem;
+}
