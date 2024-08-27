@@ -1,1 +1,2 @@
 # Your-City
+Your City is a comprehensive web platform designed to help users discover and review local services such as gyms, restaurants, malls, and more. Users can log in to create posts, share detailed reviews, and rate services, providing valuable insights for others. The platform also features an admin module for managing user accounts, city names, post categories, and regulating content. Acting as a guide, **Your City** helps both newcomers and residents easily find and learn about services in their city, complete with addresses and contact details.
